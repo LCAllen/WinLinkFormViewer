@@ -26,12 +26,12 @@ The program was developed to allow forms to be emailed to people who do not have
 INSTRUCTIONS
 *************************
 
-1) Create a folder where you will save your received .xml files.
-2) Copy or un-zip the Winklink Form Viewer into the folder you just created.
-3) Double-click on the .jar or .exe Form Viewer file.
-4) Click on the "Browse" button to locate and select the file you want to view.
-5) From the drop-down menu next to the "Parse" button, Select the correct form for the file you wish to view.
-6) Click the "Parse" button and the form should populate with the information from the .xml file.
+1) Create a folder where you will save your received .xml files. </br>
+2) Copy or un-zip the Winklink Form Viewer into the folder you just created. </br>
+3) Double-click on the .jar or .exe Form Viewer file. </br>
+4) Click on the "Browse" button to locate and select the file you want to view. </br>
+5) From the drop-down menu next to the "Parse" button, Select the correct form for the file you wish to view. </br>
+6) Click the "Parse" button and the form should populate with the information from the .xml file. </br>
 
 !! -->> If you select an .xml file created with the wrong form type or an earlier form template, the viewer will return the error "Malformed XML File."
 
