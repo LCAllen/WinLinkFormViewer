@@ -35,8 +35,6 @@ INSTRUCTIONS
 
 !! -->> If you select an .xml file created with the wrong form type or an earlier form template, the viewer will return the error "Malformed XML File."
 
-!! -->> IF YOU ATTEMPT TO OPEN AN .HTML FILE, THE ENTIRE WORLD WILL BREAK AND WE WILL ALL EVAPORATE INTO AN ETHER OF DOOM AND DISPARE.  OK, maybe that's overstating things, but it will crash, requiring you to open Task Manager and stop the Form Viewer process.
-
 ************************
 ACKNOWLEDGMENTS
 ************************
