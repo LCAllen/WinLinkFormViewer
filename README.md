@@ -20,7 +20,7 @@ BACKGROUND
 
 The program was developed to allow forms to be emailed to people who do not have RMSExpress but would like to view the received data in an organized format.  For example, when working in an Emergency Operations Center (EOC) after a disaster and without Internet or regular e-mail, the form would be received from the field by radio using Winlink and RMSExpress.  The form could then be forwarded from the radio room to the operations floor (OPS) using Telnet and the local area network.  The person in OPS is unlikely to have RMSExpress, but needs to see the forwarded information.  They could save the .xml file attached to the forwarded message, then use the File Viewer to read the information formatted as a standard ICS form. 
 
-
+Future versions may include additional forms capability, a print function and file browsing options.
 
 *************************
 INSTRUCTIONS
