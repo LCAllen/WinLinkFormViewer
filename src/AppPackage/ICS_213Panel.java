@@ -44,8 +44,8 @@ public class ICS_213Panel extends FormPanel {
 		lblApprovedPosTitle.setBounds(405, 449, 82, 14);
 		this.add(lblApprovedPosTitle);
 
-		JLabel lblMessage = new JLabel("Message");
-		lblMessage.setBounds(10, 85, 82, 14);
+		JLabel lblMessage = new JLabel("7. Message");
+		lblMessage.setBounds(10, 85, 104, 14);
 		this.add(lblMessage);
 
 		JLabel lblTo = new JLabel("2. To");
