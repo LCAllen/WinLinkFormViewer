@@ -28,7 +28,7 @@ public class ICS_213Panel extends FormPanel {
 		setLayout(null);
 		
 		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setBounds(102, 85, 680, 353);
+		scrollPane.setBounds(110, 85, 672, 353);
 		this.add(scrollPane);
 		taMessage = new JTextArea();
 		scrollPane.setViewportView(taMessage);
@@ -36,7 +36,7 @@ public class ICS_213Panel extends FormPanel {
 		taMessage.setLineWrap(true);
 
 		// Setup Labels
-		JLabel lblApprovedBy = new JLabel("Approved By");
+		JLabel lblApprovedBy = new JLabel("8. Approved By");
 		lblApprovedBy.setBounds(10, 449, 104, 14);
 		this.add(lblApprovedBy);
 
@@ -48,44 +48,44 @@ public class ICS_213Panel extends FormPanel {
 		lblMessage.setBounds(10, 85, 82, 14);
 		this.add(lblMessage);
 
-		JLabel lblTo = new JLabel("To");
-		lblTo.setBounds(10, 35, 82, 14);
+		JLabel lblTo = new JLabel("2. To");
+		lblTo.setBounds(10, 35, 104, 14);
 		this.add(lblTo);
 
-		JLabel lblFrom = new JLabel("From");
-		lblFrom.setBounds(405, 35, 36, 14);
+		JLabel lblFrom = new JLabel("3. From");
+		lblFrom.setBounds(405, 35, 101, 14);
 		this.add(lblFrom);
 
-		JLabel lblSubject = new JLabel("Subject");
-		lblSubject.setBounds(10, 60, 82, 14);
+		JLabel lblSubject = new JLabel("4. Subject");
+		lblSubject.setBounds(10, 60, 104, 14);
 		this.add(lblSubject);
 
-		JLabel lblIncidentName = new JLabel("Incident Name");
-		lblIncidentName.setBounds(10, 10, 82, 14);
+		JLabel lblIncidentName = new JLabel("1. Incident Name");
+		lblIncidentName.setBounds(10, 10, 104, 14);
 		this.add(lblIncidentName);
 
 		tfIncidentName = new JTextField();
 		tfIncidentName.setBackground(Color.WHITE);
 		tfIncidentName.setEditable(false);
-		tfIncidentName.setBounds(102, 7, 293, 20);
+		tfIncidentName.setBounds(110, 7, 285, 20);
 		tfIncidentName.setColumns(10);
 
 		tfTo = new JTextField();
 		tfTo.setBackground(Color.WHITE);
 		tfTo.setEditable(false);
-		tfTo.setBounds(102, 32, 293, 20);
+		tfTo.setBounds(110, 32, 285, 20);
 		tfTo.setColumns(10);
 
 		tfFrom = new JTextField();
 		tfFrom.setBackground(Color.WHITE);
 		tfFrom.setEditable(false);
-		tfFrom.setBounds(482, 32, 300, 20);
+		tfFrom.setBounds(497, 32, 285, 20);
 		tfFrom.setColumns(10);
 
 		tfSubject = new JTextField();
 		tfSubject.setBackground(Color.WHITE);
 		tfSubject.setEditable(false);
-		tfSubject.setBounds(102, 57, 680, 20);
+		tfSubject.setBounds(110, 57, 672, 20);
 		tfSubject.setColumns(10);
 
 		tfApprovedPosTitle = new JTextField();
@@ -97,11 +97,11 @@ public class ICS_213Panel extends FormPanel {
 		tfApprovedName = new JTextField();
 		tfApprovedName.setBackground(Color.WHITE);
 		tfApprovedName.setEditable(false);
-		tfApprovedName.setBounds(102, 446, 293, 20);
+		tfApprovedName.setBounds(110, 446, 285, 20);
 		tfApprovedName.setColumns(10);
 
-		JLabel lblDateTime = new JLabel("Date / Time");
-		lblDateTime.setBounds(405, 10, 68, 14);
+		JLabel lblDateTime = new JLabel("5/6. Date / Time");
+		lblDateTime.setBounds(405, 10, 101, 14);
 		add(lblDateTime);
 
 		this.add(tfIncidentName);
@@ -114,7 +114,7 @@ public class ICS_213Panel extends FormPanel {
 		tfDateTime = new JTextField();
 		tfDateTime.setBackground(Color.WHITE);
 		tfDateTime.setEditable(false);
-		tfDateTime.setBounds(482, 7, 300, 20);
+		tfDateTime.setBounds(497, 7, 285, 20);
 		add(tfDateTime);
 		tfDateTime.setColumns(10);
 	}
