@@ -1,5 +1,9 @@
 # WinLinkFormViewer
 
+**************************
+<b> This project has been discontinued and will not be further updated unless the need arises. If you have a need for an updated version of this application, feel free to contact me. </b>
+**************************
+
 Winlink Form Viewer
 Current version 1.0
 4/23/2016
@@ -34,14 +38,3 @@ INSTRUCTIONS
 6) Click the "Parse" button and the form should populate with the information from the .xml file. </br>
 
 !! -->> If you select an .xml file created with the wrong form type or an earlier form template, the viewer will return the error "Malformed XML File."
-
-************************
-ACKNOWLEDGMENTS
-************************
-
-Credit goes to Levi Cherry-Allen who indulged his father's radio obsession and agreed to write this program.  I hope your efforts will never be needed in a real emergency, but if they are, your work could be important for strengthening response efforts and saving lives.  Thank you.
- 
-
-
-
- 
