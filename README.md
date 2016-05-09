@@ -1,7 +1,7 @@
 # WinLinkFormViewer
 
 **************************
-<b> This project has been discontinued and will not be further updated unless the need arises. If you have a need for an updated version of this application, feel free to contact me. </b>
+<b> This project has been discontinued and will not be further updated unless the need arises. If you have a need for an updated version of this application, feel free to leave an Issue on GitHub. </b>
 **************************
 
 Winlink Form Viewer
